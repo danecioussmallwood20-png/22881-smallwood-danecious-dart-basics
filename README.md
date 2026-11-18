@@ -1,10 +1,10 @@
 # Dart Basics Assignment
 
-- **Full name:Danecious Smallwood
-- **Registration number:22881
+- **Full name:** Danecious Smallwood
+- **Registration number:** 22881
 - **D (last digit): 1
 - **T (last two digits): 81
-- **GitHub username: danecioussmallwood20-png
+- **GitHub username:** <danecioussmallwood20-png>
 
 
 ## Files

@@ -1,4 +1,6 @@
-# Status (Reg no 22881 | D = 1 | T = 81)
+# Status
+
+ Reg no 22881 | D = 1 | T = 81
 
 ## Done
 - A1: traced and explained
