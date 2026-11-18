@@ -15,3 +15,5 @@
 | `momo_sim.dart` | Part F: MoMo USSD simulator |
 | `answers.pdf` | Trace answers, explanations, Part E and the Part G log |
 | `STATUS.md` | 11:00 AM check-in |
+
+Run with: dart run dart_basics.dart and dart run momo_sim.dart
